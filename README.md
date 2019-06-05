@@ -1,6 +1,6 @@
 # Scheduler
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[Scheduler-Android](https://arthtyagi.github.io/Scheduler-Android/)
 Scheduler is an Open Source Software for Android devices.
 
 This applications serves the purpose of managing your college, school or any other classes without the hassle of them 
