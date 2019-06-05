@@ -1,5 +1,5 @@
 # Scheduler
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Scheduler is an Open Source Software for Android devices.
 
